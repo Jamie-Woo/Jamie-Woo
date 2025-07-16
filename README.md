@@ -16,9 +16,9 @@
 | . | Web-based meeting room reservation system | Flask, HTML |
 | . | Designing food baskets for minimum nutrition cost | Pandas, SPSS |
 
-## 🌐 Self-Learning Log (English)
+### 🌐 Self-Learning Log (English)
 
-### 📚 Coursera | IBM Data Science Professional Certificate
+#### 📚 Coursera | IBM Data Science Professional Certificate
 - Period: Jan 2024 – Mar 2024
 - Key Takeaways:
   - Python basics for data science
@@ -28,7 +28,7 @@
   - Intro to Machine Learning (regression/classification)
 - Notes Repository: [📂 Link](https://github.com/yourID/ibm-data-science-notes)
 
-### 🧠 FastCampus | ML for Beginners (Korean Platform)
+#### 🧠 FastCampus | ML for Beginners (Korean Platform)
 - Summary of supervised/unsupervised learning theory with Scikit-learn
 - Notes & exercises in progress
 
@@ -56,9 +56,9 @@
 | [회의실 예약 시스템] | Flask + MongoDB 기반 웹 예약 시스템 | Flask, HTML, JS |
 | [식품 바구니 최적화] | WFP 기준 식품 바구니 설계 및 가격 분석 | Pandas, SPSS |
 
-## 📘 독학 학습 기록 (Self-Learning Log)
+### 📘 독학 학습 기록 (Self-Learning Log)
 
-### 📚 Coursera | IBM Data Science Professional Certificate
+#### 📚 Coursera | IBM Data Science Professional Certificate
 - 기간: 2024.01 ~ 2024.03
 - 주요 학습 내용:
   - 데이터 과학 개요, Python for Data Science
@@ -68,7 +68,7 @@
   - 머신러닝 모델 기초: Regression, Classification
 - 정리 노트: [📂 레포 링크](https://github.com/사용자ID/ibm-data-science-notes)
 
-### 🧠 K-MOOC | 국제개발협력 입문
+#### 🧠 K-MOOC | 국제개발협력 입문
 - 지도/비지도 학습 이론 정리 및 사이킷런 실습 포함
 - 개인 실습 노트 업로드 예정
 
