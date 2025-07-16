@@ -12,10 +12,10 @@
 ### 💼 Featured Projects
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [multi-criteria hospital siting](https://github.com/Jamie-Woo/multi-criteria-hospital-siting) | A project that analyzes regional data to identify the optimal location for establishing a new Dementia Care Hospital in South Korea using PCA and MCDM TOPSIS. | Python |
-| [hotel booking cancellation prediction](https://github.com/Jamie-Woo/hotel-booking-cancellation-rf) | A machine learning project that analyzes hotel booking data to predict cancellations, understand customer behavior, and identify key influencing variables using Random Forest and Feature Importance | Python |
-| [room reservation application](https://github.com/Jamie-Woo/flask-mongodb-room-reservation-app) | A project that implements a distributed meeting room reservation system using a MongoDB Replica Set and a Flask-based web application. | MongoDB, Flask, HTML |
-| [works on wfp el salvador]([https://github.com/Jamie-Woo/flask-mongodb-room-reservation-app](https://github.com/Jamie-Woo/experience-wfp-elsalvador)) | various projects including Minimum Expenditure Basket report. | SPSS, Excel, Kobo toolbox |
+| [Multi-Criteria Hospital Siting](https://github.com/Jamie-Woo/multi-criteria-hospital-siting) | A project that analyzes regional data to identify the optimal location for establishing a new Dementia Care Hospital in South Korea using PCA and MCDM TOPSIS. | Python |
+| [Hotel Booking Cancellation Prediction](https://github.com/Jamie-Woo/hotel-booking-cancellation-rf) | A machine learning project that analyzes hotel booking data to predict cancellations, understand customer behavior, and identify key influencing variables using Random Forest and Feature Importance | Python |
+| [Room Reservation Application](https://github.com/Jamie-Woo/flask-mongodb-room-reservation-app) | A project that implements a distributed meeting room reservation system using a MongoDB Replica Set and a Flask-based web application. | MongoDB, Flask, HTML |
+| [Works on WFP El Salvador(2024.9-2025.2)](https://github.com/Jamie-Woo/flask-mongodb-room-reservation-app)(https://github.com/Jamie-Woo/experience-wfp-elsalvador)) | various projects including Minimum Expenditure Basket report. | SPSS, Excel, Kobo toolbox |
 
 ### 🌐 Self-Learning Log
 
