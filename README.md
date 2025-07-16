@@ -15,7 +15,7 @@
 | [Multi-Criteria Hospital Siting](https://github.com/Jamie-Woo/multi-criteria-hospital-siting) | A project that analyzes regional data to identify the optimal location for establishing a new Dementia Care Hospital in South Korea using PCA and MCDM TOPSIS. | Python |
 | [Hotel Booking Cancellation Prediction](https://github.com/Jamie-Woo/hotel-booking-cancellation-rf) | A machine learning project that analyzes hotel booking data to predict cancellations, understand customer behavior, and identify key influencing variables using Random Forest and Feature Importance | Python |
 | [Room Reservation Application](https://github.com/Jamie-Woo/flask-mongodb-room-reservation-app) | A project that implements a distributed meeting room reservation system using a MongoDB Replica Set and a Flask-based web application. | MongoDB, Flask, HTML |
-| [Works on WFP El Salvador(2024.9-2025.2)](https://github.com/Jamie-Woo/flask-mongodb-room-reservation-app) | various projects including Minimum Expenditure Basket report. | SPSS, Excel, Kobo toolbox |
+| [Works on WFP El Salvador](https://github.com/Jamie-Woo/flask-mongodb-room-reservation-app) | Various projects including Minimum Expenditure Basket report. | SPSS, Excel, Kobo Toolbox |
 
 ### 🌐 Self-Learning Log
 
