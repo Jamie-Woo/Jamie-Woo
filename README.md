@@ -3,7 +3,7 @@
 ### 🔍 About Me
 - I’m a student interested in data analytics and international development.
 - I have experience in site selection analysis and predictive modeling.
-- Completed a field internship at WFP El Salvador through KOICA-UNV student program.
+- Completed a field volunteering work at WFP El Salvador through KOICA-UNV program.
 
 ### 🛠 Technical Skills
 - Python, SPSS, SQL
