@@ -16,7 +16,7 @@
 | . | Web-based meeting room reservation system | Flask, HTML |
 | . | Designing food baskets for minimum nutrition cost | Pandas, SPSS |
 
-### 🌐 Self-Learning Log (English)
+### 🌐 Self-Learning Log
 
 #### 📚 Coursera | IBM Data Science Professional Certificate
 - Period: Jan 2024 – Mar 2024
