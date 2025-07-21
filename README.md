@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ### 🔍 About Me
-- I’m a student interested in data analytics and international development.
-- I have experience in site selection analysis and predictive modeling.
+- I’m a student interested in data science and international development.
+- I have experience in site selection analysis and predictive modeling from the academic field.
 - Completed a field volunteering work at World Food Programme El Salvador through KOICA-UNV program.
 
 ### 🛠 Technical Skills
