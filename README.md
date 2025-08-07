@@ -25,10 +25,10 @@
   - SQL and relational DBs in IBM Cloud
   - Visualization with Matplotlib & Seaborn
   - Intro to Machine Learning (regression/classification)
-- Notes Repository: [📂 Link](https://github.com/Jamie-Woo/learning-IBM-data-science)
+- Notes Repository: [Link](https://github.com/Jamie-Woo/learning-IBM-data-science)
 
 ####  K-MOOC | Introduction to International Development Cooperation (Korean Platform)
-- Notes Repository: [📂 Link](https://github.com/Jamie-Woo/learning-ODA-KOICA)
+- Notes Repository: [Link](https://github.com/Jamie-Woo/learning-ODA-KOICA)
 
 ###  Contact
 - Email: ijmwoo@gmail.com
