@@ -19,7 +19,7 @@
 ###  독학 학습 기록 (Self-Learning Log)
 
 ####  Coursera | IBM Data Science Professional Certificate
-- 기간: 2024.01 ~ 2024.03
+- 기간: 2025.06 ~ 2025.08
 - 주요 학습 내용:
   - 데이터 과학 개요, Python for Data Science
   - Pandas를 활용한 데이터 전처리
