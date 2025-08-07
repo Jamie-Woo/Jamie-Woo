@@ -3,10 +3,12 @@
 -  입지선정 분석과 예측 모델링에 대한 학술 프로젝트 경험이 있습니다.
 -  KOICA-UNV 프로그램을 통해 엘살바도르 세계식량계획(WFP)에서 현장 봉사활동을 수행하였습니다.
 
+---
 ###  주요 기술 스택
 - Python, SPSS, SQL
 - 데이터 마이닝, 머신러닝
 
+---
 ###  대표 프로젝트
 - 학과 수업, 동아리 등에서 진행한 프로젝트 및 직무 경험
   
@@ -17,7 +19,7 @@
 | [회의실 예약 시스템](https://github.com/Jamie-Woo/flask-mongodb-room-reservation-app) | MongoDB 복제셋과 Flask 기반 웹 애플리케이션을 이용한 분산형 회의실 예약 시스템 구현 프로젝트 | MongoDB, Flask, HTML |
 | [엘살바도르 WFP 활동 경험](https://github.com/Jamie-Woo/experience-wfp-elsalvador) | 최소생계비(MEB) 보고서 작성 등 다양한 프로젝트 참여 경험 | SPSS, Excel, Kobo Toolbox |
 
-
+---
 ###  자기주도 학습 기록 (Self-Learning Log)
 
 ####  Coursera | IBM 데이터 과학 전문가 자격증
@@ -33,7 +35,7 @@
 #### K-MOOC | 국제개발협력 입문
 - 학습 노트 저장: [링크](https://github.com/Jamie-Woo/learning-ODA-KOICA)
 
-
+---
 ### 연락처
 - 이메일: ijmwoo@gmail.com
 - LinkedIn: [링크](https://www.linkedin.com/in/jimin-woo-a423a5251/)
