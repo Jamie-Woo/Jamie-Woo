@@ -14,10 +14,10 @@
   
 | 프로젝트 | 설명 | 사용 도구 |
 |----------|------|------------|
-| [다기준 병원 입지 선정](https://github.com/Jamie-Woo/multi-criteria-hospital-siting) | PCA와 MCDM TOPSIS 기법을 활용하여 대한민국 내 치매안심병원 최적 입지를 분석한 프로젝트 | Python |
-| [호텔 예약 취소 예측](https://github.com/Jamie-Woo/hotel-booking-cancellation-rf) | 호텔 예약 데이터를 분석하여 취소 여부를 예측하고, 고객 행동 및 주요 영향 변수를 파악한 머신러닝 프로젝트 Random Forest 및 Feature Importance 기법 사용 | Python |
+| [다기준 병원 입지 선정](https://github.com/Jamie-Woo/multi-criteria-hospital-siting) | 대한민국 내 치매안심병원 최적 입지를 분석한 프로젝트로 PCA와 MCDM TOPSIS 기법을 활용 | Python |
+| [호텔 예약 취소 예측](https://github.com/Jamie-Woo/hotel-booking-cancellation-rf) | 호텔 예약 데이터를 분석하여 취소 여부를 예측하고, 고객 행동 및 주요 영향 변수를 파악한 머신러닝 프로젝트로 Random Forest 및 Feature Importance 기법 사용 | Python |
 | [회의실 예약 시스템](https://github.com/Jamie-Woo/flask-mongodb-room-reservation-app) | MongoDB 복제셋과 Flask 기반 웹 애플리케이션을 이용한 분산형 회의실 예약 시스템 구현 프로젝트 | MongoDB, Flask, HTML |
-| [엘살바도르 WFP 활동 경험](https://github.com/Jamie-Woo/experience-wfp-elsalvador) | 최소생계비(MEB) 보고서 작성 등 다양한 프로젝트 참여 경험 | SPSS, Excel, Kobo Toolbox |
+| [엘살바도르 WFP 활동 경험](https://github.com/Jamie-Woo/experience-wfp-elsalvador) | 최소지출바구니(MEB) 보고서 작성 등 다양한 프로젝트 참여 경험 | SPSS, Excel, Kobo Toolbox |
 
 ---
 ###  자기주도 학습 기록 (Self-Learning Log)
