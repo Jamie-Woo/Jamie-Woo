@@ -1,7 +1,7 @@
 ###  About Me
-- I’m a student interested in data science and international development.
+- I’m a student interested in Data Science and International Development.
 - I have experience in site selection analysis and predictive modeling from the academic field.
-- Completed a field volunteering work at World Food Programme El Salvador through KOICA-UNV program.
+- Completed a field volunteering work as a Data Analytics Assistent at World Food Programme El Salvador through KOICA-UNV program.
 
 ###  Technical Skills
 - Python, SPSS, SQL
