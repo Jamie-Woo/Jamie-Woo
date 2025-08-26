@@ -8,6 +8,7 @@
 - Data mining, machine learning
 
 ###  Featured Projects
+- Projects and work experiences carried out through academic courses and club activities
 | Project | Description | Tools |
 |---------|-------------|-------|
 | [Multi-Criteria Hospital Siting](https://github.com/Jamie-Woo/multi-criteria-hospital-siting) | A project that analyzes regional data to identify the optimal location for establishing a new Dementia Care Hospital in South Korea using PCA and MCDM TOPSIS. | Python |
